@@ -1,0 +1,28 @@
+nav  {
+  background-color: aqua;
+}
+
+.nav-list  {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+.nav-list a  {
+  float: left;
+  padding: 10px;
+  color: black
+}
+
+.nav-list a {
+  text-decoration: none;
+}
+
+
+h1 {
+  clear: both;
+}
+body {
+  margin: 0;
+}
